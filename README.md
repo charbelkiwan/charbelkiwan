@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/charbelkiwann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charbelkiwann" height="30" width="40" /></a>
 <a href="https://instagram.com/charbelkiwann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charbelkiwann" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/charbelkiwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charbelkiwan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/charbelkiwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="charbelkiwan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/charbel_kiwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="charbelkiwan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
